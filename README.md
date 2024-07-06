@@ -62,3 +62,5 @@ The goal is to analyse the sales data from a superstore to understand customer b
 ### Page 1
 ![Page 1](https://github.com/punithkp169/SuperStore-Analysis/assets/173493345/47f53bc8-fe76-478c-96a3-02ac82e452c4)
 
+### Page 2
+![Page 2](https://github.com/punithkp169/SuperStore-Analysis/assets/173493345/1f79455d-0e86-4d67-84e2-6d18cbebf7ce)
